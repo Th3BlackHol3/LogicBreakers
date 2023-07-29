@@ -8,6 +8,8 @@ Welcome to our Security Resource Collection repository! 🚀
 
 This repository is a centralized hub for a vast array of valuable security resources contributed by a community of passionate and knowledgeable individuals like you. Whether you are an information security enthusiast, a cybersecurity professional, or someone eager to learn about safeguarding digital assets, this collection is designed to cater to your needs.
 
+Join our telegram for discussion : 
+
 ## Why Contribute to this Repository?
 
 Our repository thrives on the power of collaboration and collective knowledge. By contributing your security resources, tools, guides, and best practices, you are making a significant impact on the broader cybersecurity community. Your valuable additions can help countless individuals enhance their security knowledge, fortify their defenses, and stay up-to-date with the latest industry trends.
